@@ -24,5 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishwq&show_icons=true&locale=en" alt="krishwq" /></p>
 <h1>🏆GitHub Trophies :</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishwq" alt="krishwq" /></a> </p>
+
+![](https://github-trophies.vercel.app/?username=krishwq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
