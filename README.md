@@ -23,10 +23,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=krishwq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishwq&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats-ten-coral.vercel.app/?user=krishwq&theme=radical)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishwq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h1>🏆GitHub Trophies :</h1>
 
 ![](https://github-trophies.vercel.app/?username=krishwq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
