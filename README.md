@@ -7,7 +7,7 @@
 
 - 📫 How to reach me : **birkrishnendu@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/1vvjLDAvODHXnOr7p5DNPI0DsLQwDjPck/view?usp=sharing](https://drive.google.com/file/d/1vvjLDAvODHXnOr7p5DNPI0DsLQwDjPck/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1vvjLDAvODHXnOr7p5DNPI0DsLQwDjPck/view?usp=sharing](https://drive.google.com/file/d/1TeeD2_iCEdo0d4EIuOIaTxKnJfB6cORs/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
